@@ -1,0 +1,19 @@
+.rockin {
+  border: 6px salmon;
+  padding: 4px;
+  background-color: beige;
+}
+
+.rollin {
+  float: right;
+  border: 8px black;
+  padding: 8px;
+  margin: 15px;
+  background-color: coral;
+  width: 25%;
+}
+
+img {
+  width: 50%;
+  height: 75%;
+}
